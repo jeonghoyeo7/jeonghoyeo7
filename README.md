@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on B-Harvest and Crescent Network.
+- 🌱 I’m currently using Cosmos SDK and GO.
+
+
 <!--
 **jeonghoyeo7/jeonghoyeo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
