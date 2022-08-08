@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on B-Harvest and Crescent Network.
+- 🔭 I’m currently working on B-Harvest and Cosmosquad Labs.
 - 🌱 I’m currently using Cosmos SDK and GO.
 
 
