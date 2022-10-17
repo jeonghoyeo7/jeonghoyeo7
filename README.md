@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on B-Harvest and Cosmosquad Labs.
+- 🔭 I’m currently working for B-Harvest and Cosmosquad Labs.
 - 🌱 I’m currently using Cosmos SDK and GO.
+- 🤔 I'm learning Solidity/CosmWasm for smart contracts.
 
 
 <!--
