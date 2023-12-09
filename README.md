@@ -1,9 +1,18 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for B-Harvest.
-- 🌱 I’m currently using Cosmos SDK and GO.
-- 🤔 I'm learning Solidity/CosmWasm for smart contracts.
+- 🔭 I’m currently working for B-Harvest as a blockchain core dev.
 
+### Experienced
+
+GO (also with Cosmos SDK), Solidity
+
+### Learned 
+
+Python, JS, TS, Dart
+
+### To Learn
+
+NextJS, React, CosmWasm, Flutter, Langchain, Tailwind
 
 <!--
 **jeonghoyeo7/jeonghoyeo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
